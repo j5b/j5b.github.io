@@ -4,8 +4,10 @@
     height: 6.5rem;
     background: #fff;
     z-index: 99;
-    border-bottom: 1px solid #eee;
     margin-top: 80px;
+}
+.top-row {
+    border-bottom: 1px solid #eee;
 }
 .navbar-list {
     list-style: none;
